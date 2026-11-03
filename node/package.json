@@ -1,0 +1,11 @@
+{
+  "name": "competitor-google-ads-example",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node new-ads.mjs"
+  },
+  "dependencies": {
+    "apify-client": "2.25.0"
+  }
+}

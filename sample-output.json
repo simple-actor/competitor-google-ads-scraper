@@ -1,0 +1,126 @@
+[
+  {
+    "type": "ad",
+    "position": 43,
+    "adId": "CR09739858046225481729",
+    "advertiserId": "AR01473138048400097281",
+    "advertiserName": "Casper Sleep Inc.",
+    "advertiserCountry": "US",
+    "format": "text",
+    "firstShown": "2026-10-22T16:32:16.933Z",
+    "lastShown": "2026-11-02T05:19:24.074Z",
+    "daysShown": 11,
+    "imageUrl": "https://tpc.googlesyndication.com/archive/simgad/13499845157100305470",
+    "imageWidth": 348,
+    "imageHeight": 308,
+    "previewUrl": null,
+    "adUrl": "https://adstransparency.google.com/advertiser/AR01473138048400097281/creative/CR09739858046225481729?region=anywhere",
+    "domain": "casper.com",
+    "regions": [
+      {
+        "country": "US",
+        "lastShown": "2026-11-01"
+      }
+    ],
+    "variations": 3,
+    "googleAdCountMin": 600,
+    "googleAdCountMax": 700,
+    "target": "casper.com",
+    "targetType": "domain",
+    "region": "anywhere",
+    "retrievedAt": "2026-11-03T03:38:38.735Z"
+  },
+  {
+    "type": "ad",
+    "position": 71,
+    "adId": "CR15638944912307650561",
+    "advertiserId": "AR01473138048400097281",
+    "advertiserName": "Casper Sleep Inc.",
+    "advertiserCountry": "US",
+    "format": "image",
+    "firstShown": "2026-10-11T23:49:36.741Z",
+    "lastShown": "2026-10-22T04:51:19.044Z",
+    "daysShown": 11,
+    "imageUrl": "https://tpc.googlesyndication.com/archive/simgad/16328004546707996003",
+    "imageWidth": 734,
+    "imageHeight": 299,
+    "previewUrl": null,
+    "adUrl": "https://adstransparency.google.com/advertiser/AR01473138048400097281/creative/CR15638944912307650561?region=anywhere",
+    "domain": "casper.com",
+    "regions": [
+      {
+        "country": "US",
+        "lastShown": "2026-10-21"
+      }
+    ],
+    "variations": 3,
+    "googleAdCountMin": 600,
+    "googleAdCountMax": 700,
+    "target": "casper.com",
+    "targetType": "domain",
+    "region": "anywhere",
+    "retrievedAt": "2026-11-03T03:38:38.735Z"
+  },
+  {
+    "type": "ad",
+    "position": 23,
+    "adId": "CR01097598795371249665",
+    "advertiserId": "AR14322066114962522113",
+    "advertiserName": "Purple Innovation, LLC.",
+    "advertiserCountry": "US",
+    "format": "image",
+    "firstShown": "2026-10-22T06:12:48.770Z",
+    "lastShown": "2026-11-02T21:32:03.892Z",
+    "daysShown": 12,
+    "imageUrl": "https://tpc.googlesyndication.com/archive/simgad/4624289408430114820",
+    "imageWidth": 724,
+    "imageHeight": 511,
+    "previewUrl": null,
+    "adUrl": "https://adstransparency.google.com/advertiser/AR14322066114962522113/creative/CR01097598795371249665?region=anywhere",
+    "domain": "purple.com",
+    "regions": [
+      {
+        "country": "US",
+        "lastShown": "2026-11-02"
+      }
+    ],
+    "variations": 3,
+    "googleAdCountMin": 1000,
+    "googleAdCountMax": 2000,
+    "target": "purple.com",
+    "targetType": "domain",
+    "region": "anywhere",
+    "retrievedAt": "2026-11-03T03:38:38.736Z"
+  },
+  {
+    "type": "ad",
+    "position": 14,
+    "adId": "CR06141928345677332481",
+    "advertiserId": "AR16692507631331311617",
+    "advertiserName": "Saatva Inc",
+    "advertiserCountry": "US",
+    "format": "video",
+    "firstShown": "2026-10-30T18:35:40.632Z",
+    "lastShown": "2026-11-03T00:37:53.261Z",
+    "daysShown": 4,
+    "imageUrl": null,
+    "imageWidth": null,
+    "imageHeight": null,
+    "previewUrl": "https://displayads-formats.googleusercontent.com/ads/preview/content.js?client=ads-integrity-transparency&obfuscatedCustomerId=2266853674&creativeId=830131786040&uiFeatures=12,54&adGroupId=204453657751&itemIds=857256285443399493,14721622215779306608,9031802676513994425,10285964669782843076,157224963713589273,9667546890498614057&assets=%3DH4sIAAAAAAAAAAE1AMr_CjMKCAjJ9KW1TxAICggIwYnL4AUQAQoICL_aqcQFEAYKCAiP9qCXHRApCgkI3KD8q9MMEAzpdxPtNQAAAA&sig=ACiVB_xFcfUR3IRvi_ZCS6lhxgyFLyMbkw&htmlParentId=fletch-render-12613810677986742569&responseCallback=fletchCallback12613810677986742569",
+    "adUrl": "https://adstransparency.google.com/advertiser/AR16692507631331311617/creative/CR06141928345677332481?region=anywhere",
+    "domain": "saatva.com",
+    "regions": [
+      {
+        "country": "US",
+        "lastShown": "2026-11-02"
+      }
+    ],
+    "variations": 5,
+    "googleAdCountMin": 300,
+    "googleAdCountMax": 400,
+    "target": "saatva.com",
+    "targetType": "domain",
+    "region": "anywhere",
+    "retrievedAt": "2026-11-03T03:38:38.736Z"
+  }
+]

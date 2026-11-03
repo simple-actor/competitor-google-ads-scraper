@@ -1,0 +1,4 @@
+node_modules/
+ads.csv
+__pycache__/
+.venv/
